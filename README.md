@@ -1,6 +1,12 @@
-I'm from the Philippines 🇵🇭
+![](https://johndeltorrizo.github.io/Johndel-Torrizo/)
 
-A Mechatronics engineering student
+I'm a Mechatronics Engineering Student from the Philippines
+
+-
+-
+-
+
+
 
 - Currently studying Javascript and Python
 
